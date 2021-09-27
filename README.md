@@ -3,6 +3,6 @@
  
  
  <h3> Objetive: </h3>
-Check if the Spanish Fucking Ministry of universities has already published the damn FPU scholarship resolution
-whiout lossing my time checking my fuckin mail. If a change in the grant webpage is detected a tkinter
-popup will come up. Just launch it at background and relax thinking about your future crying in quiet mode.
+Check if the Spanish fucking Ministry of universities has already published the damn FPU scholarship resolution
+without losing my time checking my fucking mail. If a change in the grant webpage is detected, a Tkinter
+pop-up will come up. Just launch it at the background and relax thinking about your future, crying in quiet mode.
